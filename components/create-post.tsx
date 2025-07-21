@@ -48,4 +48,3 @@ export function CreatePost({ onSubmit }: CreatePostProps) {
     </Card>
   )
 }
-

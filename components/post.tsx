@@ -74,4 +74,3 @@ export function Post({ post, onLike }: PostProps) {
     </Card>
   )
 }
-
